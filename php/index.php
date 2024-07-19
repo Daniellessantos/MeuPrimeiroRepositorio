@@ -12,7 +12,7 @@
         echo "o número é: $x <br>";
         $x+=10;
     }
-
+ele pula de 10 em 10
     ?>
 </body>
 </html>
